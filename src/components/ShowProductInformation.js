@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import update from 'immutability-helper';
-import {BootstrapTable, TableHeaderColumn} from 'react-bootstrap-table';
-import '../react-bootstrap-table-all.min.css';
 import Table from './Table'
 
 
